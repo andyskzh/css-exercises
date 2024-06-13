@@ -1,0 +1,19 @@
+.fondo {
+    background-color: rgb(236, 141, 141);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fondo2 {
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
